@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://danielwuca.github.io/Mernproj_public",
+  "homepage": "http://danielwuca.github.io/Mernproj_public",
   "private": true,
   "proxy": "http://localhost:8080",
   "dependencies": {
